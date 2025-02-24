@@ -25,6 +25,8 @@
 - **Backend Framework**: Powered by robust backend technologies ensuring smooth and responsive user interactions.
 - **Frontend**: User-friendly, sleek interface designed for an engaging reading experience.
 
+## Demo: https://litmind.vercel.app
+
 ## Installation
 
 To get started with this project, follow these steps:
