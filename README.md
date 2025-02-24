@@ -1,4 +1,3 @@
-# LitMind: AI-Powered Book Recommendation System
 
 # LitMind: AI-Powered Book Recommendation System
 
